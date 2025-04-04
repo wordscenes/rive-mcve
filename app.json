@@ -14,7 +14,10 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.tylerslater.rivetestoobassets"
+      "bundleIdentifier": "com.tylerslater.rivetestoobassets",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -33,6 +36,11 @@
           "launchMode": "most-recent"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "e072579d-09a5-4cea-b5de-fbbac773c067"
+      }
+    }
   }
 }
