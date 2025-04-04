@@ -4929,10 +4929,10 @@ rimraf@~2.6.2:
   dependencies:
     glob "^7.1.3"
 
-rive-react-native@^9.2.0:
-  version "9.2.0"
-  resolved "https://registry.yarnpkg.com/rive-react-native/-/rive-react-native-9.2.0.tgz#1cd8ed5fa3fd53cbaacdf42f57707d45de8366ca"
-  integrity sha512-xDc2F7RnleBt2Rur3OP4j8+kir2C0tAHH4kug5jkfRsY4/9qBsrpnNfClbsq5EqDPCEqAz4jeZNkMqIChJRpTQ==
+rive-react-native@^9.2.1:
+  version "9.2.1"
+  resolved "https://registry.yarnpkg.com/rive-react-native/-/rive-react-native-9.2.1.tgz#0b7841cfd5f42acd7e0e5bc4f1fb77d9e01762e9"
+  integrity sha512-OcCh5EXl69nCsu8OrmaJ5VNFapaLs9stVIeyKZV/v36TJXGeXNdgado5H88cfJ8s/BBfA3DqRgEYF6HwLdew8A==
 
 run-parallel@^1.1.9:
   version "1.2.0"
