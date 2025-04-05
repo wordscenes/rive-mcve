@@ -1,5 +1,5 @@
 import { StyleSheet, Text, View } from 'react-native';
-import { RiveAnimation } from './ios/RiveAnimation';
+import { RiveAnimation } from './RiveAnimation';
 import { Alignment, Fit, type RNRiveError } from 'rive-react-native';
 
 export default function App() {
